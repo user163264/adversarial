@@ -1,3 +1,10 @@
+# Script for communicating with an LLM via a 'book cypher' way.
+# More info in further versions.
+# .
+
+
+
+
 import numpy as np
 
 # Load "The Book" as a list of words
